@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "260376258246",
+    "firebase_url": "https://timetosee-e090a.firebaseio.com",
+    "project_id": "timetosee-e090a",
+    "storage_bucket": "timetosee-e090a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260376258246:android:e77e9ecd64fe35097759c7",
+        "android_client_info": {
+          "package_name": "com.example.logintime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260376258246-u44f9lapere87ccma1ukj6pae6v92vco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0sE_St-CDz_mQLJPxFCyOvAyikWfikrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260376258246-u44f9lapere87ccma1ukj6pae6v92vco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
